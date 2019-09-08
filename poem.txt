@@ -1,8 +1,8 @@
 Rainbow contains following colours:
-v
-i
-b
-g
-y
-o
-r
+voilet
+indigo
+blue
+green
+yellow
+orange
+red
