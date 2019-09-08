@@ -1,0 +1,8 @@
+Rainbow contains following colours:
+v
+i
+b
+g
+y
+o
+r
