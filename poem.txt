@@ -1,4 +1,4 @@
-Rainbow contains following colours:
+Rainbow contains following colours and Unicorn :
 voilet
 indigo
 blue
@@ -7,3 +7,4 @@ yellow
 orange
 red
 The End of the Poem
+And The unicorn
