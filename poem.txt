@@ -5,6 +5,7 @@ blue
 green
 yellow
 orange
+skyblue
 red
 The End of the Poem
 And The unicorn
