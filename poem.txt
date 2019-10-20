@@ -3,7 +3,8 @@ voilet
 indigo
 blue
 green
-yellow
+grey
+pink
 orange
 skyblue
 red
