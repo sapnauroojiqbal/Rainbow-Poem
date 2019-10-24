@@ -6,6 +6,7 @@ green
 yellow
 orange
 red
+dark red
 The End of the Poem
 And The unicorn
 
