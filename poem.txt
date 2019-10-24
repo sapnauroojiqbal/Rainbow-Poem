@@ -4,6 +4,7 @@ indigo
 blue
 green
 yellow
+dark blue
 orange
 red
 The End of the Poem
