@@ -3,11 +3,12 @@ voilet
 indigo
 blue
 green
-grey
-pink
+yellow
 orange
-skyblue
 red
+pink
+peech
+skyblue
 The End of the Poem
 And The unicorn
 Recycle
