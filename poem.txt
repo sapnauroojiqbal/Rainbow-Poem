@@ -6,6 +6,10 @@ green
 yellow
 orange
 red
+royal blue
+baby-pink
+magenta
+parrot green
 The End of the Poem
 And The unicorn
 
